@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Databases & Persistence
+.arena_memory/
+arena.db
+.arena_cache/
+.arena_settings.json
+
+# Environment
+.env
+
+# Node.js
+arena-frontend/node_modules/
+arena-frontend/dist/
+arena-frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
